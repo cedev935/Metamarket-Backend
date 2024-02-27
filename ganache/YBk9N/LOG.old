@@ -1,0 +1,45 @@
+2023/12/01-14:13:40.355 2e94 Reusing MANIFEST C:\Users\Olaf\AppData\Local\Google\Chrome\User Data\Profile 87\Local Extension Settings\egjidjbpglichdcondbcbdnbeeppgdph/MANIFEST-000001
+2023/12/01-14:13:40.356 2e94 Recovering log #655
+2023/12/01-14:13:40.356 2e94 Reusing old log C:\Users\Olaf\AppData\Local\Google\Chrome\User Data\Profile 87\Local Extension Settings\egjidjbpglichdcondbcbdnbeeppgdph/000655.log 
+2023/12/01-14:18:09.769 f5c Level-0 table #660: started
+2023/12/01-14:18:10.570 f5c Level-0 table #660: 1354836 bytes OK
+2023/12/01-14:18:10.953 f5c Delete type=0 #655
+2023/12/01-14:28:33.488 3558 Level-0 table #662: started
+2023/12/01-14:28:33.579 3558 Level-0 table #662: 1354482 bytes OK
+2023/12/01-14:28:33.606 3558 Delete type=0 #659
+2023/12/01-14:41:42.356 f5c Level-0 table #664: started
+2023/12/01-14:41:42.529 f5c Level-0 table #664: 1354351 bytes OK
+2023/12/01-14:41:42.579 f5c Delete type=0 #661
+2023/12/01-18:18:28.247 3558 Level-0 table #666: started
+2023/12/01-18:18:28.359 3558 Level-0 table #666: 1354440 bytes OK
+2023/12/01-18:18:28.382 3558 Delete type=0 #663
+2023/12/01-18:18:28.384 3558 Compacting 4@0 + 1@1 files
+2023/12/01-18:18:28.611 3558 Generated table #667@0: 8 keys, 83538 bytes
+2023/12/01-18:18:28.612 3558 Compacted 4@0 + 1@1 files => 83538 bytes
+2023/12/01-18:18:28.633 3558 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/01-18:18:28.634 3558 Delete type=2 #657
+2023/12/01-18:18:28.635 3558 Delete type=2 #660
+2023/12/01-18:18:28.635 3558 Delete type=2 #662
+2023/12/01-18:18:28.635 3558 Delete type=2 #664
+2023/12/01-18:18:28.635 3558 Delete type=2 #666
+2023/12/01-21:35:53.456 3558 Level-0 table #669: started
+2023/12/01-21:35:53.608 3558 Level-0 table #669: 1354544 bytes OK
+2023/12/01-21:35:53.685 3558 Delete type=0 #665
+2023/12/02-08:36:01.914 3558 Level-0 table #671: started
+2023/12/02-08:36:01.990 3558 Level-0 table #671: 1354856 bytes OK
+2023/12/02-08:36:02.013 3558 Delete type=0 #668
+2023/12/02-18:37:14.857 3558 Level-0 table #673: started
+2023/12/02-18:37:14.917 3558 Level-0 table #673: 1354680 bytes OK
+2023/12/02-18:37:14.942 3558 Delete type=0 #670
+2023/12/03-05:36:23.485 3558 Level-0 table #675: started
+2023/12/03-05:36:23.585 3558 Level-0 table #675: 1354897 bytes OK
+2023/12/03-05:36:23.608 3558 Delete type=0 #672
+2023/12/03-05:36:23.609 3558 Compacting 4@0 + 1@1 files
+2023/12/03-05:36:23.834 3558 Generated table #676@0: 8 keys, 83560 bytes
+2023/12/03-05:36:23.834 3558 Compacted 4@0 + 1@1 files => 83560 bytes
+2023/12/03-05:36:23.855 3558 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/03-05:36:23.856 3558 Delete type=2 #667
+2023/12/03-05:36:23.856 3558 Delete type=2 #669
+2023/12/03-05:36:23.856 3558 Delete type=2 #671
+2023/12/03-05:36:23.857 3558 Delete type=2 #673
+2023/12/03-05:36:23.857 3558 Delete type=2 #675

@@ -1,0 +1,27 @@
+2023/12/04-15:44:40.250 3558 Reusing MANIFEST C:\Users\Olaf\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\egjidjbpglichdcondbcbdnbeeppgdph/MANIFEST-000001
+2023/12/04-15:44:40.252 3558 Recovering log #1116
+2023/12/04-15:44:40.840 3558 Reusing old log C:\Users\Olaf\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\egjidjbpglichdcondbcbdnbeeppgdph/001116.log 
+2023/12/04-15:44:44.393 f5c Level-0 table #1121: started
+2023/12/04-15:44:44.566 f5c Level-0 table #1121: 1351782 bytes OK
+2023/12/04-15:44:44.609 f5c Delete type=0 #1116
+2023/12/04-15:59:49.063 3558 Level-0 table #1123: started
+2023/12/04-15:59:49.180 3558 Level-0 table #1123: 1352059 bytes OK
+2023/12/04-15:59:49.224 3558 Delete type=0 #1120
+2023/12/04-19:19:22.313 3558 Level-0 table #1125: started
+2023/12/04-19:19:22.378 3558 Level-0 table #1125: 1351861 bytes OK
+2023/12/04-19:19:22.410 3558 Delete type=0 #1122
+2023/12/05-05:20:36.316 3558 Level-0 table #1127: started
+2023/12/05-05:20:36.448 3558 Level-0 table #1127: 1351699 bytes OK
+2023/12/05-05:20:36.473 3558 Delete type=0 #1124
+2023/12/05-05:20:36.474 3558 Compacting 4@0 + 1@1 files
+2023/12/05-05:20:36.634 3558 Generated table #1128@0: 8 keys, 83421 bytes
+2023/12/05-05:20:36.635 3558 Compacted 4@0 + 1@1 files => 83421 bytes
+2023/12/05-05:20:36.656 3558 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/05-05:20:36.656 3558 Delete type=2 #1118
+2023/12/05-05:20:36.656 3558 Delete type=2 #1121
+2023/12/05-05:20:36.656 3558 Delete type=2 #1123
+2023/12/05-05:20:36.657 3558 Delete type=2 #1125
+2023/12/05-05:20:36.657 3558 Delete type=2 #1127
+2023/12/05-11:24:26.692 1044 Level-0 table #1130: started
+2023/12/05-11:24:26.943 1044 Level-0 table #1130: 1351764 bytes OK
+2023/12/05-11:24:27.225 1044 Delete type=0 #1126

@@ -1,0 +1,147 @@
+2023/12/05-12:49:24.208 668c Reusing MANIFEST C:\Users\Olaf\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\egjidjbpglichdcondbcbdnbeeppgdph/MANIFEST-000001
+2023/12/05-12:49:24.209 668c Recovering log #1129
+2023/12/05-12:49:25.589 668c Reusing old log C:\Users\Olaf\AppData\Local\Google\Chrome\User Data\Default\Local Extension Settings\egjidjbpglichdcondbcbdnbeeppgdph/001129.log 
+2023/12/05-13:21:08.717 668c Level-0 table #1133: started
+2023/12/05-13:21:08.813 668c Level-0 table #1133: 1352149 bytes OK
+2023/12/05-13:21:08.844 668c Delete type=0 #1129
+2023/12/05-17:26:56.969 cb80 Level-0 table #1135: started
+2023/12/05-17:26:57.057 cb80 Level-0 table #1135: 1373777 bytes OK
+2023/12/05-17:26:57.171 cb80 Delete type=0 #1132
+2023/12/05-18:21:26.255 cb80 Level-0 table #1137: started
+2023/12/05-18:21:26.329 cb80 Level-0 table #1137: 1374185 bytes OK
+2023/12/05-18:21:26.352 cb80 Delete type=0 #1134
+2023/12/05-18:21:26.353 cb80 Compacting 4@0 + 1@1 files
+2023/12/05-18:21:26.536 cb80 Generated table #1138@0: 8 keys, 87911 bytes
+2023/12/05-18:21:26.536 cb80 Compacted 4@0 + 1@1 files => 87911 bytes
+2023/12/05-18:21:26.550 cb80 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/05-18:21:26.555 cb80 Delete type=2 #1128
+2023/12/05-18:21:26.555 cb80 Delete type=2 #1130
+2023/12/05-18:21:26.555 cb80 Delete type=2 #1133
+2023/12/05-18:21:26.555 cb80 Delete type=2 #1135
+2023/12/05-18:21:26.555 cb80 Delete type=2 #1137
+2023/12/06-01:20:09.080 cb80 Level-0 table #1140: started
+2023/12/06-01:20:09.191 cb80 Level-0 table #1140: 1374182 bytes OK
+2023/12/06-01:20:09.211 cb80 Delete type=0 #1136
+2023/12/06-07:22:10.385 cb80 Level-0 table #1142: started
+2023/12/06-07:22:10.504 cb80 Level-0 table #1142: 1374249 bytes OK
+2023/12/06-07:22:10.528 cb80 Delete type=0 #1139
+2023/12/06-10:19:48.376 6bcc Level-0 table #1144: started
+2023/12/06-10:19:50.931 6bcc Level-0 table #1144: 1374232 bytes OK
+2023/12/06-10:19:51.146 6bcc Delete type=0 #1141
+2023/12/06-10:22:59.555 cb80 Level-0 table #1146: started
+2023/12/06-10:23:00.576 cb80 Level-0 table #1146: 1373899 bytes OK
+2023/12/06-10:23:00.990 cb80 Delete type=0 #1143
+2023/12/06-10:23:00.991 cb80 Compacting 4@0 + 1@1 files
+2023/12/06-10:23:02.840 cb80 Generated table #1147@0: 8 keys, 87896 bytes
+2023/12/06-10:23:02.841 cb80 Compacted 4@0 + 1@1 files => 87896 bytes
+2023/12/06-10:23:02.887 cb80 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/06-10:23:02.888 cb80 Delete type=2 #1138
+2023/12/06-10:23:02.888 cb80 Delete type=2 #1140
+2023/12/06-10:23:02.888 cb80 Delete type=2 #1142
+2023/12/06-10:23:02.888 cb80 Delete type=2 #1144
+2023/12/06-10:23:02.888 cb80 Delete type=2 #1146
+2023/12/06-10:24:59.706 cb80 Level-0 table #1149: started
+2023/12/06-10:25:00.027 cb80 Level-0 table #1149: 1374075 bytes OK
+2023/12/06-10:25:00.126 cb80 Delete type=0 #1145
+2023/12/06-10:26:20.216 cb80 Level-0 table #1151: started
+2023/12/06-10:26:20.332 cb80 Level-0 table #1151: 1373959 bytes OK
+2023/12/06-10:26:20.425 cb80 Delete type=0 #1148
+2023/12/06-10:28:59.530 6f10 Level-0 table #1153: started
+2023/12/06-10:29:00.074 6f10 Level-0 table #1153: 1373944 bytes OK
+2023/12/06-10:29:00.469 6f10 Delete type=0 #1150
+2023/12/06-10:30:25.338 6bcc Level-0 table #1155: started
+2023/12/06-10:30:25.618 6bcc Level-0 table #1155: 1374163 bytes OK
+2023/12/06-10:30:25.640 6bcc Delete type=0 #1152
+2023/12/06-10:30:25.640 6bcc Compacting 4@0 + 1@1 files
+2023/12/06-10:30:25.852 6bcc Generated table #1156@0: 8 keys, 87912 bytes
+2023/12/06-10:30:25.852 6bcc Compacted 4@0 + 1@1 files => 87912 bytes
+2023/12/06-10:30:25.882 6bcc compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/06-10:30:25.883 6bcc Delete type=2 #1147
+2023/12/06-10:30:25.883 6bcc Delete type=2 #1149
+2023/12/06-10:30:25.883 6bcc Delete type=2 #1151
+2023/12/06-10:30:25.883 6bcc Delete type=2 #1153
+2023/12/06-10:30:25.883 6bcc Delete type=2 #1155
+2023/12/06-10:30:59.920 668c Level-0 table #1158: started
+2023/12/06-10:31:00.031 668c Level-0 table #1158: 1374090 bytes OK
+2023/12/06-10:31:00.087 668c Delete type=0 #1154
+2023/12/06-10:34:59.315 6bcc Level-0 table #1160: started
+2023/12/06-10:34:59.463 6bcc Level-0 table #1160: 1374124 bytes OK
+2023/12/06-10:34:59.576 6bcc Delete type=0 #1157
+2023/12/06-10:37:00.151 cb80 Level-0 table #1162: started
+2023/12/06-10:37:00.232 cb80 Level-0 table #1162: 1373912 bytes OK
+2023/12/06-10:37:00.295 cb80 Delete type=0 #1159
+2023/12/06-10:38:59.530 cb80 Level-0 table #1164: started
+2023/12/06-10:38:59.618 cb80 Level-0 table #1164: 1374228 bytes OK
+2023/12/06-10:38:59.645 cb80 Delete type=0 #1161
+2023/12/06-10:38:59.645 cb80 Compacting 4@0 + 1@1 files
+2023/12/06-10:38:59.743 cb80 Generated table #1165@0: 8 keys, 87914 bytes
+2023/12/06-10:38:59.743 cb80 Compacted 4@0 + 1@1 files => 87914 bytes
+2023/12/06-10:38:59.761 cb80 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/06-10:38:59.761 cb80 Delete type=2 #1156
+2023/12/06-10:38:59.761 cb80 Delete type=2 #1158
+2023/12/06-10:38:59.761 cb80 Delete type=2 #1160
+2023/12/06-10:38:59.761 cb80 Delete type=2 #1162
+2023/12/06-10:38:59.761 cb80 Delete type=2 #1164
+2023/12/06-10:42:59.607 cb80 Level-0 table #1167: started
+2023/12/06-10:42:59.676 cb80 Level-0 table #1167: 1374044 bytes OK
+2023/12/06-10:42:59.694 cb80 Delete type=0 #1163
+2023/12/06-10:44:59.688 cb80 Level-0 table #1169: started
+2023/12/06-10:44:59.805 cb80 Level-0 table #1169: 1374015 bytes OK
+2023/12/06-10:44:59.848 cb80 Delete type=0 #1166
+2023/12/06-10:46:59.620 6bcc Level-0 table #1171: started
+2023/12/06-10:46:59.836 6bcc Level-0 table #1171: 1374012 bytes OK
+2023/12/06-10:46:59.969 6bcc Delete type=0 #1168
+2023/12/06-10:50:59.583 cb80 Level-0 table #1173: started
+2023/12/06-10:50:59.700 cb80 Level-0 table #1173: 1374033 bytes OK
+2023/12/06-10:50:59.801 cb80 Delete type=0 #1170
+2023/12/06-10:50:59.802 cb80 Compacting 4@0 + 1@1 files
+2023/12/06-10:50:59.935 cb80 Generated table #1174@0: 8 keys, 87904 bytes
+2023/12/06-10:50:59.935 cb80 Compacted 4@0 + 1@1 files => 87904 bytes
+2023/12/06-10:50:59.984 cb80 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/06-10:50:59.984 cb80 Delete type=2 #1165
+2023/12/06-10:50:59.984 cb80 Delete type=2 #1167
+2023/12/06-10:50:59.984 cb80 Delete type=2 #1169
+2023/12/06-10:50:59.984 cb80 Delete type=2 #1171
+2023/12/06-10:50:59.984 cb80 Delete type=2 #1173
+2023/12/06-10:52:59.539 cb80 Level-0 table #1176: started
+2023/12/06-10:52:59.976 cb80 Level-0 table #1176: 1374007 bytes OK
+2023/12/06-10:53:00.039 cb80 Delete type=0 #1172
+2023/12/06-10:54:59.612 cb80 Level-0 table #1178: started
+2023/12/06-10:54:59.675 cb80 Level-0 table #1178: 1374016 bytes OK
+2023/12/06-10:54:59.709 cb80 Delete type=0 #1175
+2023/12/06-10:58:59.652 cb80 Level-0 table #1180: started
+2023/12/06-10:58:59.727 cb80 Level-0 table #1180: 1374047 bytes OK
+2023/12/06-10:58:59.792 cb80 Delete type=0 #1177
+2023/12/06-11:00:59.469 cb80 Level-0 table #1182: started
+2023/12/06-11:00:59.543 cb80 Level-0 table #1182: 1374141 bytes OK
+2023/12/06-11:00:59.577 cb80 Delete type=0 #1179
+2023/12/06-11:00:59.578 cb80 Compacting 4@0 + 1@1 files
+2023/12/06-11:00:59.628 cb80 Generated table #1183@0: 8 keys, 87910 bytes
+2023/12/06-11:00:59.628 cb80 Compacted 4@0 + 1@1 files => 87910 bytes
+2023/12/06-11:00:59.728 cb80 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/06-11:00:59.728 cb80 Delete type=2 #1174
+2023/12/06-11:00:59.728 cb80 Delete type=2 #1176
+2023/12/06-11:00:59.728 cb80 Delete type=2 #1178
+2023/12/06-11:00:59.728 cb80 Delete type=2 #1180
+2023/12/06-11:00:59.728 cb80 Delete type=2 #1182
+2023/12/06-11:02:59.602 cb80 Level-0 table #1185: started
+2023/12/06-11:02:59.681 cb80 Level-0 table #1185: 1374121 bytes OK
+2023/12/06-11:02:59.706 cb80 Delete type=0 #1181
+2023/12/06-11:06:59.337 cb80 Level-0 table #1187: started
+2023/12/06-11:06:59.513 cb80 Level-0 table #1187: 1374188 bytes OK
+2023/12/06-11:06:59.547 cb80 Delete type=0 #1184
+2023/12/06-11:08:59.482 cb80 Level-0 table #1189: started
+2023/12/06-11:08:59.568 cb80 Level-0 table #1189: 1374069 bytes OK
+2023/12/06-11:08:59.586 cb80 Delete type=0 #1186
+2023/12/06-11:11:00.025 cb80 Level-0 table #1191: started
+2023/12/06-11:11:00.493 cb80 Level-0 table #1191: 1374054 bytes OK
+2023/12/06-11:11:00.523 cb80 Delete type=0 #1188
+2023/12/06-11:11:00.524 cb80 Compacting 4@0 + 1@1 files
+2023/12/06-11:11:00.591 cb80 Generated table #1192@0: 8 keys, 87911 bytes
+2023/12/06-11:11:00.592 cb80 Compacted 4@0 + 1@1 files => 87911 bytes
+2023/12/06-11:11:00.623 cb80 compacted to: files[ 0 1 1 0 0 0 0 ]
+2023/12/06-11:11:00.623 cb80 Delete type=2 #1183
+2023/12/06-11:11:00.623 cb80 Delete type=2 #1185
+2023/12/06-11:11:00.623 cb80 Delete type=2 #1187
+2023/12/06-11:11:00.623 cb80 Delete type=2 #1189
+2023/12/06-11:11:00.623 cb80 Delete type=2 #1191
